@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "John",
+    "score": 90
+  },
+  {
+    "name": "Doe",
+    "score": 88
+  },
+  {
+    "name": "Jane",
+    "score": 85
+  }
+]
